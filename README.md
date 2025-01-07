@@ -113,7 +113,7 @@ Generate an SSH key pair
 
 Copy the key to bastion
 
-   ssh-copy-id root
+    ssh-copy-id root@<bastion>
 
 Run playbook
 
